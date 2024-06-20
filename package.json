@@ -15,10 +15,8 @@
     "i18next-parser": "8.6.0",
     "syncpack": "^8.5.14",
     "turbo": "1.10.16",
-    "turbo-ignore": "^1.11.3"
-  },
-   "devDependencies": {
-    "@types/node": "^18.16.0" 
+    "turbo-ignore": "^1.11.3",
+     "@types/node": "^18.16.0"
   },
   "engines": {
     "node": "=18.12.1",
